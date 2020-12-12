@@ -23,4 +23,6 @@ Question: How many it costs?
 #Answer: Yes, you have to for now at least
 
 
-#Everything is said!
+#Question: Where to buy it? (i know you want)
+
+#Answer: You can contact the devs on discord to buy (clue#9868, t9a#9898)
